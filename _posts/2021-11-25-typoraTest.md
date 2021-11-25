@@ -10,7 +10,7 @@ title:  "typora test"
 
 
 
-<img src="C:\Users\haneul\Desktop\PPG\cat.jpg" alt="cat" style="zoom: 33%;" />
+<img src="https://i.redd.it/6x21e5bgvwl51.jpg" alt="cat" style="zoom: 33%;" />
 
 >  *test*  right click
 
