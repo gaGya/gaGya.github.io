@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "typora test"
+---
+
+
 **#one** ctrl+ B
 
 # one #^ type + enter
